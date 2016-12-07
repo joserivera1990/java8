@@ -1,7 +1,5 @@
 package com.josecode.java8.optional;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.Optional;
 import java.util.Properties;
 
